@@ -1,0 +1,28 @@
+,coefficient
+num__CheckingMissing,-0.8533231661339488
+cat__Purpose_vacation/others,-0.6814988182000957
+num__LogCreditAmount,-0.5067348734873809
+num__SavingsMissing,-0.46523886979628776
+num__AgeGroup,-0.46403075535029586
+cat__Purpose_radio/TV,-0.4185043951515071
+num__LongLoan,-0.22795500935007987
+cat__Housing_own,-0.21485470821479585
+num__SavingsScore,-0.19638008518412298
+num__TotalLiquidityScore,-0.18031865003023445
+cat__Sex_male,-0.1687058897358951
+num__CreditToAge,-0.1364626706569073
+cat__Purpose_domestic appliances,-0.12370977170531279
+num__CheckingScore,-0.06558660572409167
+cat__Purpose_car,-0.028680998420598403
+cat__Housing_free,-0.01797282662034569
+cat__Purpose_furniture/equipment,-0.005534878543583537
+num__Job,0.010855006191519542
+cat__Purpose_business,0.05280027865419159
+num__CreditPerMonth,0.06707157295656695
+cat__Sex_female,0.16186881781518342
+cat__Housing_rent,0.22599046291442984
+num__Age,0.34588134728784886
+cat__Purpose_repairs,0.49139056999880537
+num__Credit amount,0.5115020808914165
+cat__Purpose_education,0.7069009414473861
+num__Duration,0.7678234907658016
